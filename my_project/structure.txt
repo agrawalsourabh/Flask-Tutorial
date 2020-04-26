@@ -1,0 +1,7 @@
+\---my_project
+    |   app.py
+    |   structure.txt
+    |
+    \---templates
+            index.html
+            welcome.html
